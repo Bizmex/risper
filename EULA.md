@@ -12,6 +12,10 @@ If you are entering into this EULA agreement on behalf of a company or other leg
 
 This EULA agreement shall apply only to the Software supplied by Bizmex herewith regardless of whether other software is referred to or described herein. The terms also apply to any Bizmex updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply.
 
+Bizmex may update the text of this EULA from time to time without notice. 
+Every update of the EULA shall be clearly visible, with the date of the update being available.
+Regardless of such updates, the version of the EULA that was the most recent at the time that Licensee entered into this EULA shall remain in effect until terminated.
+
 ### License Grant
 
 Bizmex hereby grants you a personal, non-transferable, non-exclusive licence to use the Risper software on your devices in accordance with the terms of this EULA agreement.
