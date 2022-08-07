@@ -1,5 +1,7 @@
 ### Copyright (c) 2022 Bizmex. All Rights Reserved.
 
+By installing and/or using the Risper software, you are confirming your acceptance of the license, and our [EULA](https://github.com/Bizmex/risper/blob/main/EULA.md), therefore agreeing to become bound by the terms of the agreement.
+
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
