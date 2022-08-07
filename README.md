@@ -8,4 +8,4 @@ All development updates will be posted in the [discussions](https://github.com/B
 
 ### License
 
-Risper is [proprietary licensed](./LICENSE).
+Risper is [proprietary licensed](./LICENSE.md).
