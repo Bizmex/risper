@@ -62,11 +62,11 @@ body:
       description: Add any other context about the problem here.
     validations:
       required: false
-  - type: checkboxes
+  - type: dropdown
     id: terms
     attributes:
       label: Agreements
       description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/Bizmex/risper/blob/main/CODE_OF_CONDUCT.md), and our [Contribution Guidelines](https://github.com/Bizmex/risper/blob/main/CONTRIBUTING.md). Invalid issues will be removed.
       options:
-        - label: I agree to follow the project's Code of Conduct, and Contribution Guidelines
+        - I agree to follow the project's Code of Conduct, and Contribution Guidelines
           required: true
