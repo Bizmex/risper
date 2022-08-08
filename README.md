@@ -1,6 +1,6 @@
 # [Risper](https://github.com/Bizmex) &middot; [![License](https://img.shields.io/badge/license-proprietary-blue)](https://github.com/Bizmex/risper/blob/main/LICENSE.md) [![Software Type](https://img.shields.io/badge/Software-Closed--Source-red)](https://en.wikipedia.org/wiki/Proprietary_software)
 
-Risper is a closed-source, currently work in progress software. 
+Risper is a closed-source, currently work in progress, Pre-Alpha software. 
 
 ### Updates
 
