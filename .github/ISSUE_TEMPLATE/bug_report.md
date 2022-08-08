@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us address an error.
+about: Create a report to help us address an error
 title: "[BUG]"
 labels: 'Severity: N/A, Status: New'
 assignees: ''
