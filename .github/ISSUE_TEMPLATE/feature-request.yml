@@ -22,7 +22,7 @@ body:
       description: Is your feature request related to a problem? If yes, post it below.
       options:
         - "Yes"
-        - No
+        - "No"
     validations:
       required: true 
   - type: textarea
