@@ -1,14 +1,19 @@
-# Our Security Policy
+# Reporting Security Issues
+
+The Bizmex team and community take security vulnerabilities seriously. We appreciate your efforts to responsibly disclose your findings, and will make every effort to acknowledge your contributions.
 
 ## Reporting a Vulnerability
 
-Please **do not** create GitHub issues for security issues. Instead, report responsibly by contacting us directly. 
+**Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
+Instead, report responsibly by contacting us directly. 
+
+We will keep you informed of the progress towards a fix and full announcement afterwards, and may ask for additional information or guidance.
 
 Please note that we will not initiate a law enforcement investigation or any lawsuit against you for the content of the report.
 
 ## Sensitive and Personal information
-Never attempt to access sensitive or personal data. If you obtain sensitive or personal information during your security research, follow these steps:
+**Never** attempt to access sensitive or personal data. If you obtain sensitive or personal information during your security research, follow these steps:
 
 ‒ **STOP** your research or actions that involve sensitive or personal information immediately
 
