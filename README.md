@@ -4,7 +4,7 @@ Risper is an alpha, closed-source, currently work in progress, audio coding soft
 
 ### Updates
 
-All development updates will be posted in the [discussions](https://github.com/Bizmex/risper/discussions). This description will also be updated on a daily basis.
+All development updates and information can be found in the [discussions](https://github.com/Bizmex/risper/discussions).
 
 ### License
 
