@@ -20,10 +20,10 @@ Regardless of such updates, the version of the EULA that was the most recent at 
 
 Bizmex hereby grants you a personal, non-transferable, non-exclusive licence to use the Risper software on your devices in accordance with the terms of this EULA agreement.
 
-You are permitted to load the Risper software (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the Risper software.
+**You are permitted to:** 
+> Load the Risper software (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the Risper software.
 
 **You are not permitted to:**
-
 > Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the Software or attempt to do any such things.
 Reproduce, copy, distribute, resell or otherwise use the Software for any commercial purpose.
 Allow any third party to use the Software on behalf of or for the benefit of any third party.
